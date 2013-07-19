@@ -1,0 +1,17 @@
+{
+  "name": "bootstrap-tooltip",
+  "version": "2.3.2",
+  "description": "Twitter Bootstrap's jQuery tooltip plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bootstrap"
+  ],
+  "dependencies": {
+    "jquery2": "~2.0.2"
+  },
+  "author": "Twitter, Inc",
+  "license": "Apache 2.0"
+}
