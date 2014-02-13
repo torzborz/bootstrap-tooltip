@@ -358,4 +358,4 @@
     return this
   }
 
-}(require('jquery2'));
+}(require('jquery'));
