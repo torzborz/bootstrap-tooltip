@@ -1,12 +1,12 @@
 {
   "name": "bootstrap-tooltip",
-  "version": "2.3.2",
+  "version": "2.3.3",
   "description": "Twitter Bootstrap's jQuery tooltip plugin",
   "main": "index.js",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/terinjokes/bootstrap-tooltip.git"
-	},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/terinjokes/bootstrap-tooltip.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
