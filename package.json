@@ -1,6 +1,6 @@
 {
   "name": "bootstrap-tooltip",
-  "version": "2.3.3",
+  "version": "3.1.1",
   "description": "Twitter Bootstrap's jQuery tooltip plugin",
   "main": "index.js",
   "repository": {
@@ -17,5 +17,5 @@
     "jquery": "~2.1.0"
   },
   "author": "Twitter, Inc",
-  "license": "Apache 2.0"
+  "license": "MIT"
 }
